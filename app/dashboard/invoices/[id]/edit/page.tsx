@@ -1,5 +1,4 @@
 import { fetchCustomers, fetchInvoiceById } from '@/app/lib/data';
-import { customers } from '@/app/lib/placeholder-data';
 import Breadcrumbs from '@/app/ui/invoices/breadcrumbs';
 import Form from '@/app/ui/invoices/edit-form';
 
